@@ -1,4 +1,4 @@
-/*  
+/*
 Theme Name: MeatKing
 Version:    1.14.20
 Author:     ThemeWagon
@@ -20,7 +20,7 @@ TABLE OF CONTENTS
 
 
 /* ==========================================================================
-    01. General and Typography 
+    01. General and Typography
 ========================================================================== */
 body {
     font-family:'Kreon',serif;
@@ -73,10 +73,10 @@ section::before,section::after {
 
 
 /* ==========================================================================
-    02. Header 
+    02. Header
 ========================================================================== */
 #header {
-    background-image:url(../img/night.jpg);
+    background-image:url(../img/landingpage.jpg);
     -webkit-background-size:/*@@prefixmycss->No equivalent*/;
     -moz-background-size:cover;
     -o-background-size:/*@@prefixmycss->No equivalent*/;
@@ -141,7 +141,7 @@ section::before,section::after {
 
 
 /* ==========================================================================
-    03. Navigation 
+    03. Navigation
 ========================================================================== */
 #menu {
     background:rgba(33,45,57,0.8);
@@ -172,7 +172,7 @@ section::before,section::after {
 
 
 /* ==========================================================================
-    04. Services 
+    04. Services
 ========================================================================== */
 .light-wrapper {
     background:#fbfbfb;
@@ -221,10 +221,10 @@ section::before,section::after {
 
 
 /* ==========================================================================
-    05. parallax 
+    05. parallax
 ========================================================================== */
 .parallax {
-    background:url(../img/parallax1.jpg) fixed no-repeat center center;
+    background:url(../img/landingpage1.jpg) fixed no-repeat center center;
     -webkit-background-size:/*@@prefixmycss->No equivalent*/;
     -moz-background-size:cover;
     -o-background-size:/*@@prefixmycss->No equivalent*/;
@@ -263,7 +263,7 @@ section::before,section::after {
 
 
 /* ==========================================================================
-    06. Food menu 
+    06. Food menu
 ========================================================================== */
 .menu-items {
     text-align:center;
@@ -294,7 +294,7 @@ section::before,section::after {
 
 
 /* ==========================================================================
-    07. Special offers 
+    07. Special offers
 ========================================================================== */
 .hot-tag {
     position:absolute;
@@ -371,7 +371,7 @@ section::before,section::after {
 
 
 /* ==========================================================================
-    08. Reservation 
+    08. Reservation
 ========================================================================== */
 .form-group {
     margin-bottom:24px;
@@ -404,7 +404,7 @@ section::before,section::after {
 
 
 /* ==========================================================================
-    09. Chefs 
+    09. Chefs
 ========================================================================== */
 .chefs img {
     border:5px solid #e7e7e7;
@@ -413,7 +413,7 @@ section::before,section::after {
 
 
 /* ==========================================================================
-    10. Footer 
+    10. Footer
 ========================================================================== */
 .dark-wrapper {
     background:#ed0121;
@@ -452,7 +452,7 @@ section::before,section::after {
 }
 
 /* ==========================================================================
-    11. Responsive styles 
+    11. Responsive styles
 ========================================================================== */
 
 @media (max-width: 991px){
