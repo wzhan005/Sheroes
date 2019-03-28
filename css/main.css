@@ -136,7 +136,7 @@ section::before,section::after {
     top:-5px;
 }
 .navbar-nav>li:nth-child(3) {
-    margin-right: 110px;
+    /* margin-right: 110px; */
 }
 
 
